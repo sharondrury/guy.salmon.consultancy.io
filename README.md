@@ -1,1 +1,1 @@
-# guy.salmon.consultancy.io
+# guy.salmon.consultancy
